@@ -10,5 +10,6 @@ module.exports = {
       'import/no-named-default': 0,
       'global-require': 0,
       'arrow-parens': 0,
+      'semi': 0,
     }
 };
