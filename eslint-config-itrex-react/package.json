@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-itrex-react",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "ITRex's JS ESLint config for react, following our styleguide",
     "main": "index.js",
     "scripts": {
@@ -18,7 +18,7 @@
     "homepage": "https://github.com/Arvisix/eslint-config-itrex#readme",
     "dependencies": {
       "eslint-config-airbnb": "^16.1.0",
-      "eslint-config-itrex-base": "1.0.0"
+      "eslint-config-itrex-base": "^1.0.0"
     },
     "engines": {
       "node": ">= 4"

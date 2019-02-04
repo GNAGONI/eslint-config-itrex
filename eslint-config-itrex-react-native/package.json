@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-itrex-react-native",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "ITRex's JS ESLint config for react-native, following our styleguide",
     "main": "index.js",
     "scripts": {
@@ -17,7 +17,7 @@
     },
     "homepage": "https://github.com/Arvisix/eslint-config-itrex#readme",
     "dependencies": {
-      "eslint-config-itrex-react": "1.0.0"
+      "eslint-config-itrex-react": "^1.0.0"
     },
     "engines": {
       "node": ">= 4"
