@@ -11,5 +11,6 @@ module.exports = {
       'global-require': 0,
       'arrow-parens': 0,
       'semi': 0,
+      "linebreak-style": 0,
     }
 };
